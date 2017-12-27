@@ -16,4 +16,4 @@ def assign_rooms(badges)
   attendees.each do |badges|
     rooms.push(batch_badge_creator(attendees))
   end
-  badges
+  rooms
