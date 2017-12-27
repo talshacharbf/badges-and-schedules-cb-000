@@ -28,3 +28,4 @@ assign_rooms(attendees)
 room.each_with_index do |attendees|
 puts "attendees"
 end
+end
